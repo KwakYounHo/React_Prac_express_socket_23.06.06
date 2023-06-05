@@ -1,0 +1,12 @@
+.smallBox {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.smallBox h2 {
+  font-size: 15px;
+  margin: 5px;
+}

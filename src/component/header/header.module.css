@@ -1,0 +1,10 @@
+.header {
+  width: 660px;
+  height: 50px;
+  background-color: aquamarine;
+}
+
+.header h1:nth-of-type(1) {
+  color: black;
+  text-align: center;
+}

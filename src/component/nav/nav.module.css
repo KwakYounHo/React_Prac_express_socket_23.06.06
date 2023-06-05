@@ -1,0 +1,17 @@
+.nav {
+  width: 660px;
+  height: 50px;
+  background-color: darksalmon;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav a {
+  border: 2px solid black;
+  background-color: white;
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+  border-radius: 15px;
+}
